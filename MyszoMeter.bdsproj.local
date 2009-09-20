@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006-08-23 14:40:19.649.pas,C:\Documents and Settings\Berus.COMODORE\Moje dokumenty\Borland Studio Projects\Unit2.pas=D:\Borland Studio Projects\MouseMeter\main.pas</Transaction>
+    <Transaction>2006-08-23 14:40:19.649.dfm,C:\Documents and Settings\Berus.COMODORE\Moje dokumenty\Borland Studio Projects\Unit2.dfm=D:\Borland Studio Projects\MouseMeter\main.dfm</Transaction>
+    <Transaction>2006-08-25 01:36:04.886.pas,D:\Borland Studio Projects\MouseMeter\Unit1.pas=D:\Borland Studio Projects\MouseMeter\password.pas</Transaction>
+    <Transaction>2006-08-25 01:36:04.896.dfm,D:\Borland Studio Projects\MouseMeter\Unit1.dfm=D:\Borland Studio Projects\MouseMeter\password.dfm</Transaction>
+    <Transaction>2006-08-27 21:34:28.280.pas,D:\Borland Studio Projects\MouseMeter\Unit1.pas=D:\Borland Studio Projects\MouseMeter\progress.pas</Transaction>
+    <Transaction>2006-08-27 21:34:28.280.dfm,D:\Borland Studio Projects\MouseMeter\Unit1.dfm=D:\Borland Studio Projects\MouseMeter\progress.dfm</Transaction>
+    <Transaction>2006-08-28 12:09:04.925.pas,D:\Borland Studio Projects\MouseMeter\DataFile.pas=</Transaction>
+    <Transaction>2006-08-28 12:29:26.601.pas,D:\Borland Studio Projects\MouseMeter\Unit1.pas=D:\Borland Studio Projects\MouseMeter\mapa.pas</Transaction>
+    <Transaction>2006-08-28 12:29:26.621.dfm,D:\Borland Studio Projects\MouseMeter\Unit1.dfm=D:\Borland Studio Projects\MouseMeter\mapa.dfm</Transaction>
+    <Transaction>2006-08-28 12:49:08.100.pas,D:\Borland Studio Projects\MouseMeter\mapa.pas=</Transaction>
+    <Transaction>2006-08-28 12:49:08.100.dfm,D:\Borland Studio Projects\MouseMeter\mapa.dfm=</Transaction>
+    <Transaction>2006-08-28 20:14:53.628.pas,D:\Borland Studio Projects\MouseMeter\progress.pas=</Transaction>
+    <Transaction>2006-08-28 20:14:53.638.dfm,D:\Borland Studio Projects\MouseMeter\progress.dfm=</Transaction>
+    <Transaction>2006-09-01 17:45:41.461.pas,D:\Borland Studio Projects\MouseMeter\Unit1.pas=D:\Borland Studio Projects\MouseMeter\postep.pas</Transaction>
+    <Transaction>2006-09-01 17:45:41.471.dfm,D:\Borland Studio Projects\MouseMeter\Unit1.dfm=D:\Borland Studio Projects\MouseMeter\postep.dfm</Transaction>
+    <Transaction>2006-09-06 20:36:24.272.pas,D:\Borland Studio Projects\MouseMeter\postep.pas=</Transaction>
+    <Transaction>2006-09-06 20:36:24.312.dfm,D:\Borland Studio Projects\MouseMeter\postep.dfm=</Transaction>
+    <Transaction>2006-09-09 10:27:59.643.pas,D:\Borland Studio Projects\MouseMeter\Unit1.pas=D:\Borland Studio Projects\MouseMeter\obrazek.pas</Transaction>
+    <Transaction>2006-09-09 10:27:59.643.dfm,D:\Borland Studio Projects\MouseMeter\Unit1.dfm=D:\Borland Studio Projects\MouseMeter\obrazek.dfm</Transaction>
+    <Transaction>2006-09-09 10:28:31.309.pas,D:\Borland Studio Projects\MouseMeter\obrazek.pas=</Transaction>
+    <Transaction>2006-09-09 10:28:31.309.dfm,D:\Borland Studio Projects\MouseMeter\obrazek.dfm=</Transaction>
+  </Transactions>
+</BorlandProject>
